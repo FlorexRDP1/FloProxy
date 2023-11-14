@@ -13,6 +13,6 @@ if [ -f "proxy" ]; then
 fi
 wget -q https://github.com/FlorexRDP1/floproxy/raw/main/proxy
 sleep 1
-echo -e "${GREEN}AJProxy is now Installed.${ENDCOLOR}"
+echo -e "${GREEN}FloProxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
 chmod +x proxy
